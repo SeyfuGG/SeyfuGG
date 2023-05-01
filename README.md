@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Seyfu  Gebremichael Gebreyohanns
 - 👀 I’m interested in  C#. ASP.Net, Asp.Net Core...
 - 🌱 I’m currently learning and working C#. ASP.Net, Asp.Net Core.HTML,CSS,Java script, 
--SharePoint and office 
+-SharePoint and office 365
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: seyfugebremichael@gmail.com
 
