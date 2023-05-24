@@ -9,3 +9,4 @@ SeyfuG/SeyfuG is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes. and font styles, add fonts
 --->
 pseudo selectors and Grid, hidden elemets
+Background images, filters, clips and density of images
